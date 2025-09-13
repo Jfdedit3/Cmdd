@@ -33,7 +33,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Jfdedit3/Cmdd/refs/he
 
 ## Testing - Old Version (Not recommended) ⚠️
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lxte/cmd/main/testing-main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jfdedit3/Cmdd/refs/heads/main/testing-main.lua"))()
 ```
 <br/>
 
